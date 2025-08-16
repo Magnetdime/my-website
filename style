@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #1a1a2e, #16213e);
+  color: white;
+  text-align: center;
+}
+
+header {
+  background: #0f3460;
+  padding: 20px;
+}
+
+.logo {
+  width: 80px;
+}
+
+.hero {
+  padding: 60px 20px;
+}
+
+.btn {
+  display: inline-block;
+  background: #e94560;
+  color: white;
+  padding: 15px 30px;
+  margin-top: 20px;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #ff2e63;
+}
